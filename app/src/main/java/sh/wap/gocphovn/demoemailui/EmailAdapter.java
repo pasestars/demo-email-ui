@@ -15,8 +15,6 @@ import java.lang.ref.SoftReference;
 import java.util.List;
 import java.util.Random;
 
-import static sh.wap.gocphovn.demoemailui.HexToDecimalExample3.getDecimal;
-
 public class EmailAdapter extends BaseAdapter {
     List<ItemModel> items;
 
